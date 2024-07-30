@@ -1,0 +1,17 @@
+body {
+    padding: 60px 60px;
+    background-color: #eeeeee;
+}
+
+.btnContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.listContainer {
+    padding: 10px;
+    border-radius: 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
